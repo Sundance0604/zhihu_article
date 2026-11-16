@@ -354,3 +354,9 @@ $    vii^{\circ7}/V=F^\sharp-A-C-E^\flat    $
 Compare: $vii^{\ø7}/V=F^\sharp-A-C-E$ (only one accidental).
 
 **Key idea:** Applied chords strengthen the motion toward V through a temporary leading tone ($\sharp\hat4\to\hat5$).
+
+## Lesson 27 Passing V6 in Major
+
+![图片](https://pic1.zhimg.com/v2-cab1b39c21aa9dda5d3124b697bf7b42_r.jpg)
+
+通常，C 大调中的导音 B 有向主音 C 解决的倾向。例如在属和弦到主和弦的进行中，B 常常上行到 C。但是在这个例子中，低音的运动是：C → B → A。B 没有向上解决到 C，而是继续向下走到 A。它在这里承担的是连接低音 C 和 A 的作用。因此，V⁶ 虽然在和弦构成上仍然是属和弦，但在这个具体语境中，它的主要作用是经过，而不是制造属—主解决。
