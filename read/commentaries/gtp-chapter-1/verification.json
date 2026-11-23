@@ -1,0 +1,11 @@
+{
+  "section_files": 29,
+  "source_pages": 54,
+  "source_blocks": 75,
+  "chinese_characters": 33994,
+  "note_characters": 73610,
+  "source_pixel_checks": "all source blocks match rendered PDF pixels",
+  "source_coverage": "continuous from 1.2.4 on printed p13 through p66",
+  "original_notes": "unchanged",
+  "links": "all local Markdown targets exist"
+}

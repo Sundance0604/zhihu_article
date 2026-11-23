@@ -1,0 +1,935 @@
+{
+  "source": "Geometry, Topology and Physics, Second Edition (Mikio Nakahara) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "source_sha256": "e74846d5dc5e5d888fbb429a8da7bded3069d724532064ba8037898d8f4dc206",
+  "printed_pages": [
+    13,
+    66
+  ],
+  "pdf_pages": [
+    36,
+    89
+  ],
+  "start": "1.2.4 Wavefunction",
+  "sections": [
+    {
+      "id": 1,
+      "section": "1.2.4",
+      "title": "Wavefunction",
+      "zh": "波函数",
+      "page": 13,
+      "top": 566.52131774,
+      "file": "01-1.2.4.md",
+      "blocks": [
+        {
+          "page": 13,
+          "asset": "01-p13.png",
+          "y0": 1480,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "c1e361831bf9c753b227e10ce612fd74e0e180c8893af36d0e5de4b7818cc519"
+        },
+        {
+          "page": 14,
+          "asset": "01-p14.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "eaffed41d623d1ce7df579ab40230d52c779acc764e60cd6ef9fce8a308c0bd6"
+        },
+        {
+          "page": 15,
+          "asset": "01-p15.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "973e4ea6a3a74ffebb1ab446b0e39b8ace57fe1f90478479c671f62e0235a936"
+        },
+        {
+          "page": 16,
+          "asset": "01-p16.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "2a54e77afb1eebe933c7d6556839fe66449fee8c80f3e4a12db24097adc512b0"
+        },
+        {
+          "page": 17,
+          "asset": "01-p17.png",
+          "y0": 0,
+          "y1": 837,
+          "height": 2200,
+          "sha256": "8db6c382eded54ccb91046bcd20d401acfa7c307597e848bc4a4dc492ef1f8e7"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "1.2.5",
+      "title": "Harmonic oscillator",
+      "zh": "谐振子的算符量子化",
+      "page": 17,
+      "top": 320.39926693999996,
+      "file": "02-1.2.5.md",
+      "blocks": [
+        {
+          "page": 17,
+          "asset": "02-p17.png",
+          "y0": 837,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "4c355128acce8abac102a970329a8080ba62db974a07558fad757cd657f95cd8"
+        },
+        {
+          "page": 18,
+          "asset": "02-p18.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "11151cd6741bfa00bbc2337f040aa81e4c83dd58c8a1f23bff520a9fbece71eb"
+        },
+        {
+          "page": 19,
+          "asset": "02-p19.png",
+          "y0": 0,
+          "y1": 934,
+          "height": 2200,
+          "sha256": "9f9cfe3198de92ad015d70c6d8ce64ae8e93db88d176a6ad3301e2e161d54932"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "1.3.1",
+      "title": "Path integral quantization",
+      "zh": "玻色粒子的路径积分",
+      "page": 19,
+      "top": 357.59957258000003,
+      "file": "03-1.3.1.md",
+      "blocks": [
+        {
+          "page": 19,
+          "asset": "03-p19.png",
+          "y0": 934,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "56ee467ebac96f9c0f294aa4455046ee34135c29571bf189a63cca3aa74f4477"
+        },
+        {
+          "page": 20,
+          "asset": "03-p20.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "615ac0bd4a8d68d5ce18b531975c1c5599409e5dc3fbe5dec203ada40811baf3"
+        },
+        {
+          "page": 21,
+          "asset": "03-p21.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "b5ff9decc72b1d56854225286c75d02cf7e200d909e915468215b6e94db746c7"
+        },
+        {
+          "page": 22,
+          "asset": "03-p22.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "188c3e6c5a69a5dbc8cbd56fb0f70585847065a9e869d11c19ef0e05677527c3"
+        },
+        {
+          "page": 23,
+          "asset": "03-p23.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "4aa2ad91f904f1a861ec21322d19f7b79dbecb8a3c3960d722c28605a2be4ac9"
+        },
+        {
+          "page": 24,
+          "asset": "03-p24.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "e7db2f3b582d2f92deb3100d452c1c6ae3c140278cc677b4c9a52cf0a7a6cd7f"
+        },
+        {
+          "page": 25,
+          "asset": "03-p25.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "c0184aaa9e853a142edf8e7852313e4b5f63f412e06014bf6f04ff14f87db713"
+        },
+        {
+          "page": 26,
+          "asset": "03-p26.png",
+          "y0": 0,
+          "y1": 1421,
+          "height": 2200,
+          "sha256": "bc6fd960aaa47d7278d3e914440b39f56cba1539737f46d6cd1720c8b7866dc6"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "1.3.2",
+      "title": "Imaginary time and partition function",
+      "zh": "虚时间与配分函数",
+      "page": 26,
+      "top": 543.8411435400001,
+      "file": "04-1.3.2.md",
+      "blocks": [
+        {
+          "page": 26,
+          "asset": "04-p26.png",
+          "y0": 1421,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "753c38f6421653f897b86d5d1907c33ab32bbe1576063341460968ca473a5921"
+        },
+        {
+          "page": 27,
+          "asset": "04-p27.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "266fc9dd28c8d40b7d7d141f90c3f1cdfdab093f2b3cbbb78be7dd44de5aa381"
+        },
+        {
+          "page": 28,
+          "asset": "04-p28.png",
+          "y0": 0,
+          "y1": 744,
+          "height": 2200,
+          "sha256": "c6c223ff42567bf6e31a823d376a4d2031be68eca8b6ce28c329d84b18e76db4"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "1.3.3",
+      "title": "Time-ordered product and generating functional",
+      "zh": "编时乘积与生成泛函",
+      "page": 28,
+      "top": 284.75988028000006,
+      "file": "05-1.3.3.md",
+      "blocks": [
+        {
+          "page": 28,
+          "asset": "05-p28.png",
+          "y0": 744,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "f8cc8799c261c323d4e1f112af80f25137792fcfedd48e81e22bb2a1779227de"
+        },
+        {
+          "page": 29,
+          "asset": "05-p29.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "83b33038af76144e5051a410fddcac809decdd148e15ea937cf2c1adbed0e4a7"
+        },
+        {
+          "page": 30,
+          "asset": "05-p30.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "a5cc45b489d3727b6dc2768a7248aa7cf33abbf47183145817e10f7862825bb4"
+        },
+        {
+          "page": 31,
+          "asset": "05-p31.png",
+          "y0": 0,
+          "y1": 579,
+          "height": 2200,
+          "sha256": "57fa9af36f4b2708ec0700b6c0db7d11171187c5fed464b76ab8c03906e30208"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "1.4.1",
+      "title": "Transition amplitude",
+      "zh": "谐振子的传播振幅",
+      "page": 31,
+      "top": 221.75984924,
+      "file": "06-1.4.1.md",
+      "blocks": [
+        {
+          "page": 31,
+          "asset": "06-p31.png",
+          "y0": 579,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "a44ad46611d2bbb671d14e9e5cc999ffe0ccc969bb44da6c2ee080086533ef71"
+        },
+        {
+          "page": 32,
+          "asset": "06-p32.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "7e2771339e901dd19ad56fb2ebb64b29a16aeae4c2677dbe824f28f295a0db57"
+        },
+        {
+          "page": 33,
+          "asset": "06-p33.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "630e0b46a8fd6ac4cc8034e61677be63bd2d2a9ca9ac75ed56760df664966437"
+        },
+        {
+          "page": 34,
+          "asset": "06-p34.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "e141d18e0a6ea01913da10b870d5ee067c86d640d9e10d32b58c7b4dfebde187"
+        },
+        {
+          "page": 35,
+          "asset": "06-p35.png",
+          "y0": 0,
+          "y1": 552,
+          "height": 2200,
+          "sha256": "2ef05d7483137f386320ba1f8b316b356f58bead24c05185c0ca7e835f475cc2"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "1.4.2",
+      "title": "Partition function",
+      "zh": "谐振子的配分函数与谱行列式",
+      "page": 35,
+      "top": 211.20111836,
+      "file": "07-1.4.2.md",
+      "blocks": [
+        {
+          "page": 35,
+          "asset": "07-p35.png",
+          "y0": 552,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "a3a6b5e6136270d5d9f8c7cf5a331a714785f3493b11f8311af3f46f1d8dcf79"
+        },
+        {
+          "page": 36,
+          "asset": "07-p36.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "b0b0bfa819a9bd1e3fd86877d66c8390e06c3e2bfad493d3649aef4f558f795d"
+        },
+        {
+          "page": 37,
+          "asset": "07-p37.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "4c5c2a163ff5f0874b084ae56634e4076ae46b0c20812d6545fbcf37aef2d8bf"
+        },
+        {
+          "page": 38,
+          "asset": "07-p38.png",
+          "y0": 0,
+          "y1": 1403,
+          "height": 2200,
+          "sha256": "67bb4ca00eb2adbd466059bc8293a3fc14940d126331adcaedb78b0d02de2540"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "1.5.1",
+      "title": "Fermionic harmonic oscillator",
+      "zh": "费米谐振子",
+      "page": 38,
+      "top": 537.1202035000001,
+      "file": "08-1.5.1.md",
+      "blocks": [
+        {
+          "page": 38,
+          "asset": "08-p38.png",
+          "y0": 1403,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "6383df371b0f2c34ba2ed16de29a53926797c09f097a2bf8b348b31dc1ee4d25"
+        },
+        {
+          "page": 39,
+          "asset": "08-p39.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "768ad4ba8ba65d1c6ba21074d188466f1379ac552bb8d6771ada8506cad697bc"
+        },
+        {
+          "page": 40,
+          "asset": "08-p40.png",
+          "y0": 0,
+          "y1": 644,
+          "height": 2200,
+          "sha256": "0e20c65d0f40c97fc77403109d2cc1b7511387f8c230043ff0aa20f7769c01b9"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "1.5.2",
+      "title": "Calculus of Grassmann numbers",
+      "zh": "Grassmann 数与分次",
+      "page": 40,
+      "top": 246.59952808000003,
+      "file": "09-1.5.2.md",
+      "blocks": [
+        {
+          "page": 40,
+          "asset": "09-p40.png",
+          "y0": 644,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "020ed34370889638713c2bb8ea96b7d7b3d6b196ac393a9ad2fc3532f95227f3"
+        },
+        {
+          "page": 41,
+          "asset": "09-p41.png",
+          "y0": 0,
+          "y1": 967,
+          "height": 2200,
+          "sha256": "6c598c5b1c4fbcba95603863f769ce5bca7799596709540abf7167ff65b4307c"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "1.5.3",
+      "title": "Differentiation",
+      "zh": "Grassmann 微分",
+      "page": 41,
+      "top": 370.1998551,
+      "file": "10-1.5.3.md",
+      "blocks": [
+        {
+          "page": 41,
+          "asset": "10-p41.png",
+          "y0": 967,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "888139451e10a1d083a45c919645137ac31024a8ee71dff2a1898b9efd111fc1"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "1.5.4",
+      "title": "Integration",
+      "zh": "Berezin 积分与换元",
+      "page": 42,
+      "top": 0,
+      "file": "11-1.5.4.md",
+      "blocks": [
+        {
+          "page": 42,
+          "asset": "11-p42.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "84ca40c4197f369c3ed25f6379eea861f40380c10ad6758b295b1efb85a14230"
+        },
+        {
+          "page": 43,
+          "asset": "11-p43.png",
+          "y0": 0,
+          "y1": 806,
+          "height": 2200,
+          "sha256": "b7ebc9a0ab79d796d62a40f88ee9f26f02b86ad736d546b1ffdf871194ca4ae3"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "1.5.5",
+      "title": "Delta-function",
+      "zh": "Grassmann δ 函数",
+      "page": 43,
+      "top": 308.6402187000001,
+      "file": "12-1.5.5.md",
+      "blocks": [
+        {
+          "page": 43,
+          "asset": "12-p43.png",
+          "y0": 806,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "fcf98517c2bbac0c23409a702e8687e0e042094946a77c7e80213755f5082741"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "1.5.6",
+      "title": "Gaussian integral",
+      "zh": "费米高斯积分与 Pfaffian",
+      "page": 44,
+      "top": 0,
+      "file": "13-1.5.6.md",
+      "blocks": [
+        {
+          "page": 44,
+          "asset": "13-p44.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "056d003d502867ef52d8720f53ffa32ca224d20ea9008aed288170c7ffeb22ae"
+        },
+        {
+          "page": 45,
+          "asset": "13-p45.png",
+          "y0": 0,
+          "y1": 919,
+          "height": 2200,
+          "sha256": "423ae57d3bc4870270d62c47aa7348ffe7371d41c792a03922253c3151709089"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "1.5.7",
+      "title": "Functional derivative",
+      "zh": "Grassmann 泛函微分",
+      "page": 45,
+      "top": 351.83955326,
+      "file": "14-1.5.7.md",
+      "blocks": [
+        {
+          "page": 45,
+          "asset": "14-p45.png",
+          "y0": 919,
+          "y1": 1362,
+          "height": 2200,
+          "sha256": "dacdb3dfedc6c549244186f30a6141209ea6746f3398280a3a667fb51eeb4ad2"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "1.5.8",
+      "title": "Complex conjugation",
+      "zh": "Grassmann 共轭",
+      "page": 45,
+      "top": 521.3999751399999,
+      "file": "15-1.5.8.md",
+      "blocks": [
+        {
+          "page": 45,
+          "asset": "15-p45.png",
+          "y0": 1362,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "d9ee6ce40faf4ddf6f2402bab48bea8b6f33b8f98477dc54edb1680bbc67fc82"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "section": "1.5.9",
+      "title": "Coherent states and completeness relation",
+      "zh": "费米相干态与完备关系",
+      "page": 46,
+      "top": 0,
+      "file": "16-1.5.9.md",
+      "blocks": [
+        {
+          "page": 46,
+          "asset": "16-p46.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "09b1f2f2ef08e2162d9006919665c2d69caf71b2072e0ce6daf67279b294c3f8"
+        },
+        {
+          "page": 47,
+          "asset": "16-p47.png",
+          "y0": 0,
+          "y1": 594,
+          "height": 2200,
+          "sha256": "b9ea5f832a65038060adb359ae743263c4393485bdf2c0493b7141bbbae38456"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "section": "1.5.10",
+      "title": "Partition function of a fermionic oscillator",
+      "zh": "费米配分函数与反周期条件",
+      "page": 47,
+      "top": 227.39983300000006,
+      "file": "17-1.5.10.md",
+      "blocks": [
+        {
+          "page": 47,
+          "asset": "17-p47.png",
+          "y0": 594,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "bf96cf1806f4ed1f47d5825cae90df35d232e2985b6fb9c9bcc978d905c6d4a1"
+        },
+        {
+          "page": 48,
+          "asset": "17-p48.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "1a55e5e5a9cfaedf3b3180cc23085ddc775bdd0a3652efdb17eb5ecc6efab839"
+        },
+        {
+          "page": 49,
+          "asset": "17-p49.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "49c8bd66aa3d3cb4c7b8a9ed0d2b45d41b360e4191bc2fb6e5892855df219801"
+        },
+        {
+          "page": 50,
+          "asset": "17-p50.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "c4b07183d2dd1d653fc2828a7006f695f60c7c4afc27acf582c71b3a71bd6027"
+        },
+        {
+          "page": 51,
+          "asset": "17-p51.png",
+          "y0": 0,
+          "y1": 1102,
+          "height": 2200,
+          "sha256": "20e3eb251c59e5c071e676e3b54259f80241cf7ae8563ac2b5d62d4413d33a7a"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "section": "1.6.1",
+      "title": "Free scalar field",
+      "zh": "自由标量场",
+      "page": 51,
+      "top": 421.68122114,
+      "file": "18-1.6.1.md",
+      "blocks": [
+        {
+          "page": 51,
+          "asset": "18-p51.png",
+          "y0": 1102,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "b96d17d671955346e2f57a881d99e7b15d2dc40f76fa22a66c563373e5a1140e"
+        },
+        {
+          "page": 52,
+          "asset": "18-p52.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "4d76b2f59528050c9b46bf82d6ad56f1aac0d629a4458bd658940683612fa47b"
+        },
+        {
+          "page": 53,
+          "asset": "18-p53.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "e5dbb4a6ac1826c56e96448f2a3d097a896cee750148ff70bd36984d5097beae"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "section": "1.6.2",
+      "title": "Interacting scalar field",
+      "zh": "相互作用、关联函数与有效作用量",
+      "page": 54,
+      "top": 0,
+      "file": "19-1.6.2.md",
+      "blocks": [
+        {
+          "page": 54,
+          "asset": "19-p54.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "20b7a9c85571fcc5b2f06231be11ebe1a077daa70433d9b683c80bded0b6cc2e"
+        },
+        {
+          "page": 55,
+          "asset": "19-p55.png",
+          "y0": 0,
+          "y1": 643,
+          "height": 2200,
+          "sha256": "fcc50129daa53bb22d123631fd9a739c3b8cfa889b9a53a6f36f5f4b2b2adc58"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "section": "1.7",
+      "title": "Quantization of a Dirac field",
+      "zh": "Dirac 场的量子化",
+      "page": 55,
+      "top": 246.00002138000002,
+      "file": "20-1.7.md",
+      "blocks": [
+        {
+          "page": 55,
+          "asset": "20-p55.png",
+          "y0": 643,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "5ab98970521213893691b30e6474f8e9c55ffa6940976531421df038882cec56"
+        },
+        {
+          "page": 56,
+          "asset": "20-p56.png",
+          "y0": 0,
+          "y1": 582,
+          "height": 2200,
+          "sha256": "749ba1139da1a5f02f007d1fe77c86e5e6840210553018bd362a7d6316a02208"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "section": "1.8.1",
+      "title": "Abelian gauge theories",
+      "zh": "电磁场与阿贝尔规范理论",
+      "page": 56,
+      "top": 222.71947392000004,
+      "file": "21-1.8.1.md",
+      "blocks": [
+        {
+          "page": 56,
+          "asset": "21-p56.png",
+          "y0": 582,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "4b0e1e5101b844b7572400975200270e1cfe16e342fc17038756120c671ab0a8"
+        },
+        {
+          "page": 57,
+          "asset": "21-p57.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "fd859d463b0a91e830e1da5ad17c732f69423ac709e198d146fe6685f10c9575"
+        },
+        {
+          "page": 58,
+          "asset": "21-p58.png",
+          "y0": 0,
+          "y1": 846,
+          "height": 2200,
+          "sha256": "26a4e50cfe8fca6bdd6ac27a9a1880f3e107c05132a13912fc330ad03785705c"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "section": "1.8.2",
+      "title": "Non-Abelian gauge theories",
+      "zh": "非阿贝尔规范理论",
+      "page": 58,
+      "top": 323.75962673999993,
+      "file": "22-1.8.2.md",
+      "blocks": [
+        {
+          "page": 58,
+          "asset": "22-p58.png",
+          "y0": 846,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "ad6726acd9b52b97674949c32add7ec0ead03d62586a8c852985e3548ad20f36"
+        },
+        {
+          "page": 59,
+          "asset": "22-p59.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "0b0238de8272a7bdfe9ee5246d1f38eee8b8c6a8e5176dcb6d6c6ab8086446a1"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "section": "1.8.3",
+      "title": "Higgs fields",
+      "zh": "Higgs 场与质量",
+      "page": 60,
+      "top": 0,
+      "file": "23-1.8.3.md",
+      "blocks": [
+        {
+          "page": 60,
+          "asset": "23-p60.png",
+          "y0": 0,
+          "y1": 1377,
+          "height": 2200,
+          "sha256": "8d14266e2b373901d489c7264dd6dd3c0396e0bc056affd2de223d12448a84ef"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "section": "1.9.1",
+      "title": "Dirac monopole",
+      "zh": "Dirac 磁单极子",
+      "page": 60,
+      "top": 527.0396288,
+      "file": "24-1.9.1.md",
+      "blocks": [
+        {
+          "page": 60,
+          "asset": "24-p60.png",
+          "y0": 1377,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "7b6cf231f6eef64042fb23c03304c0a48070ae96878587b69e70d73614b13241"
+        },
+        {
+          "page": 61,
+          "asset": "24-p61.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "74d1c82ba7d3d5629b701a3020ba45b46f8a3ae94e94e8702b801e0a9f85d0a3"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "section": "1.9.2",
+      "title": "The Wu-Yang monopole",
+      "zh": "Wu–Yang 拼接",
+      "page": 62,
+      "top": 0,
+      "file": "25-1.9.2.md",
+      "blocks": [
+        {
+          "page": 62,
+          "asset": "25-p62.png",
+          "y0": 0,
+          "y1": 1512,
+          "height": 2200,
+          "sha256": "e6d6da00d67e45a981bb316818e4a765aaa5a64bfe42a5bc17ab3532b2f24d72"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "section": "1.9.3",
+      "title": "Charge quantization",
+      "zh": "电荷量子化",
+      "page": 62,
+      "top": 578.5197178000001,
+      "file": "26-1.9.3.md",
+      "blocks": [
+        {
+          "page": 62,
+          "asset": "26-p62.png",
+          "y0": 1512,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "db94d8be38df6c1048957e7a4d4bd55bc27505b974f1ddac3ae854c6643a1275"
+        },
+        {
+          "page": 63,
+          "asset": "26-p63.png",
+          "y0": 0,
+          "y1": 1054,
+          "height": 2200,
+          "sha256": "72611ee649bdf92ae0fdc3bb4e3fac06084b926ff1ff2223733db80498dfa7c7"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "section": "1.10.1",
+      "title": "Introduction",
+      "zh": "瞬子与拓扑扇区",
+      "page": 63,
+      "top": 403.44012796,
+      "file": "27-1.10.1.md",
+      "blocks": [
+        {
+          "page": 63,
+          "asset": "27-p63.png",
+          "y0": 1054,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "e4b96afcb66f54411f808f4db1dc31c704b51c7cf8e75af6b8ef3803cc927248"
+        },
+        {
+          "page": 64,
+          "asset": "27-p64.png",
+          "y0": 0,
+          "y1": 952,
+          "height": 2200,
+          "sha256": "910d2533c3150d2a85efc8dbfc88cbe36bada8a8f564e79a0773b8332b4857d9"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "section": "1.10.2",
+      "title": "The (anti-)self-dual solution",
+      "zh": "自对偶解与作用量下界",
+      "page": 64,
+      "top": 364.19997894,
+      "file": "28-1.10.2.md",
+      "blocks": [
+        {
+          "page": 64,
+          "asset": "28-p64.png",
+          "y0": 952,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "f08fd89ea7b021f77b9e59c48ea1d9f0ba55101cf65d683541fa859917b482dd"
+        },
+        {
+          "page": 65,
+          "asset": "28-p65.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "360ac59370ad4b27299850bfc6495c7cf80558659258145ed33efde3defee7dd"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "section": "Problems",
+      "title": "Problems",
+      "zh": "Derrick 缩放论证",
+      "page": 66,
+      "top": 0,
+      "file": "29-Problems.md",
+      "blocks": [
+        {
+          "page": 66,
+          "asset": "29-p66.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "e7ace6041fc1eb535e16ae6467174b6c3dd59efbf14142a9d6807da4129b2f13"
+        }
+      ]
+    }
+  ],
+  "original_notes_sha256": "c744b3ba86cf15343896438de848f1f2b30f66788249f95c74455369ff61dd61"
+}
