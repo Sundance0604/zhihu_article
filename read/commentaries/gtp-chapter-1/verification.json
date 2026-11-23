@@ -2,10 +2,16 @@
   "section_files": 29,
   "source_pages": 54,
   "source_blocks": 75,
-  "chinese_characters": 33994,
-  "note_characters": 73610,
+  "chinese_characters": 39624,
+  "note_characters": 68744,
   "source_pixel_checks": "all source blocks match rendered PDF pixels",
   "source_coverage": "continuous from 1.2.4 on printed p13 through p66",
   "original_notes": "unchanged",
-  "links": "all local Markdown targets exist"
+  "links": "all local Markdown targets exist",
+  "revision": "plain-language, high-school physics prerequisite",
+  "explanation_units": 172,
+  "purpose_first": "every explanation unit begins with its purpose",
+  "source_image_hashes": "all 75 unchanged",
+  "review_questions_with_answer_points": 53,
+  "markdown_checks": "math delimiters, display braces, table columns and local links passed"
 }
