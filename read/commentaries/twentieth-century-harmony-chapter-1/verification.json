@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-25",
+  "chapter_pages": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "chapter_pages_complete": true,
+  "example_references": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ],
+  "all_26_examples_referenced": true,
+  "application_sections": 12,
+  "all_12_applications_discussed": true,
+  "missing_local_links": [],
+  "baseline_sources_unchanged": true,
+  "source_images": "All 18 pages visually inspected in contact sheets; pages 13, 21, 30 also inspected at full output size. Images preserve source scan, including its existing page-edge limits.",
+  "audio_checks": [
+    {
+      "file": "01-interval-palette.wav",
+      "seconds": 17.52,
+      "peak_int16": 10970,
+      "clipped": false
+    },
+    {
+      "file": "02-fourth-context.wav",
+      "seconds": 9.46,
+      "peak_int16": 10969,
+      "clipped": false
+    },
+    {
+      "file": "03-inversion-and-extension.wav",
+      "seconds": 6.48,
+      "peak_int16": 10970,
+      "clipped": false
+    },
+    {
+      "file": "04-register.wav",
+      "seconds": 6.78,
+      "peak_int16": 13364,
+      "clipped": false
+    },
+    {
+      "file": "05-spacing.wav",
+      "seconds": 5.32,
+      "peak_int16": 15155,
+      "clipped": false
+    },
+    {
+      "file": "06-tension-and-dynamics.wav",
+      "seconds": 15.8,
+      "peak_int16": 14959,
+      "clipped": false
+    },
+    {
+      "file": "07-temperament.wav",
+      "seconds": 11.84,
+      "peak_int16": 10969,
+      "clipped": false
+    },
+    {
+      "file": "08-grouping.wav",
+      "seconds": 7.3,
+      "peak_int16": 15202,
+      "clipped": false
+    },
+    {
+      "file": "09-sustain-and-decay.wav",
+      "seconds": 5.32,
+      "peak_int16": 10970,
+      "clipped": false
+    }
+  ],
+  "audio_limit": "Generated PCM files verified for nonempty duration and clipping; these are original ideal-harmonic demonstrations, not verified instrument recordings.",
+  "numeric_checks": "Overtone cent calculations recomputed for partials 3,5,7,9,11,13,14,15; interval examples checked against stated octave positions.",
+  "scope": "Local files only; no source notes modified, no publication or push."
+}

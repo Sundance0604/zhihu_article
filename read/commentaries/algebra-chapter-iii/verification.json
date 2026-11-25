@@ -1,0 +1,12 @@
+{
+  "main_sections": 15,
+  "exercise_sections": 0,
+  "source_pages": 36,
+  "source_image_blocks": 45,
+  "explanation_units": 129,
+  "chinese_characters": 24738,
+  "purpose_first": "every explanation unit starts by explaining its task",
+  "original_notes": "unchanged",
+  "source_pixel_comparison": "all blocks match source render",
+  "markdown_checks": "math delimiters, display braces and local links passed"
+}

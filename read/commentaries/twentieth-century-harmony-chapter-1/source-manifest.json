@@ -1,0 +1,201 @@
+{
+  "created": "2026-11-25",
+  "book": {
+    "author": "Vincent Persichetti",
+    "title": "Twentieth-Century Harmony: Creative Aspects and Practice",
+    "source_path": "D:\\mycodelife\\workshop\\AI\\zhihu\\read\\Twentieth-Century Harmony Creative Aspects and Practice (Vincent Persichetti) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "sha256": "66a2b238de35819a8a18f49753387246e9a4a83b4eeae4d1b948444cb3e7a2ea",
+    "chapter": "1 Intervals",
+    "printed_pages": [
+      13,
+      30
+    ],
+    "pdf_reader_pages": [
+      11,
+      28
+    ]
+  },
+  "page_images": [
+    {
+      "printed_page": 13,
+      "pdf_reader_page": 11,
+      "path": "assets/p13.png",
+      "sha256": "16a4838df8f8bcca6362f53c951a6d0505735379a1c7d0f5c537777f0f36962e"
+    },
+    {
+      "printed_page": 14,
+      "pdf_reader_page": 12,
+      "path": "assets/p14.png",
+      "sha256": "53532928acc874d1c4acd83231bf5da3696d693a6334e897b73c92d59ab5b624"
+    },
+    {
+      "printed_page": 15,
+      "pdf_reader_page": 13,
+      "path": "assets/p15.png",
+      "sha256": "ba197ea44e8147555420ed665815eebf12029723933c9f65a9a30c60f8812606"
+    },
+    {
+      "printed_page": 16,
+      "pdf_reader_page": 14,
+      "path": "assets/p16.png",
+      "sha256": "c49580ce74bed9866ac677b1a7e7b68f247ba98093512df403c5bb0007f73d1a"
+    },
+    {
+      "printed_page": 17,
+      "pdf_reader_page": 15,
+      "path": "assets/p17.png",
+      "sha256": "75e8f14ccdcae952333642ff5b320e24b88876a7b24ce83ed457fedbad29bdcb"
+    },
+    {
+      "printed_page": 18,
+      "pdf_reader_page": 16,
+      "path": "assets/p18.png",
+      "sha256": "2728758b3fe9d134d753dc40b33f9fc959432f6f8467e6f618c185af8e69e816"
+    },
+    {
+      "printed_page": 19,
+      "pdf_reader_page": 17,
+      "path": "assets/p19.png",
+      "sha256": "25c5ed507f9bbb506031ea3bd8d1ea472b54528ee9a9019b553e2c395f607bd6"
+    },
+    {
+      "printed_page": 20,
+      "pdf_reader_page": 18,
+      "path": "assets/p20.png",
+      "sha256": "4649c1fc4fe0130d60832ecdca82f5b0d6f5807c4531d5455f6758a10f19bf0f"
+    },
+    {
+      "printed_page": 21,
+      "pdf_reader_page": 19,
+      "path": "assets/p21.png",
+      "sha256": "edd7832d995d8167318fa7def138880685cf276363a4913bac57b6428933dcbf"
+    },
+    {
+      "printed_page": 22,
+      "pdf_reader_page": 20,
+      "path": "assets/p22.png",
+      "sha256": "e945bc3ae633710df0a82dcc4e558f78b2fafecf9ec232e46dcafe5f54b6414c"
+    },
+    {
+      "printed_page": 23,
+      "pdf_reader_page": 21,
+      "path": "assets/p23.png",
+      "sha256": "a344a415abfe01f8b8f633d5c4d9d2f125e8c332f76102f2c1afe052774d6209"
+    },
+    {
+      "printed_page": 24,
+      "pdf_reader_page": 22,
+      "path": "assets/p24.png",
+      "sha256": "2eb277ad2d83b0d0c773803f838d82a3e6c4b6b37ffb012b5fc7ebce23e2872d"
+    },
+    {
+      "printed_page": 25,
+      "pdf_reader_page": 23,
+      "path": "assets/p25.png",
+      "sha256": "4c28785adcc4181623a7d337951be77aaafe2354f8a841cca4de2cb7a0524ee9"
+    },
+    {
+      "printed_page": 26,
+      "pdf_reader_page": 24,
+      "path": "assets/p26.png",
+      "sha256": "99cce035047f932c7a25aee2d9a56935d2b7941f962c9e587999606638cdf039"
+    },
+    {
+      "printed_page": 27,
+      "pdf_reader_page": 25,
+      "path": "assets/p27.png",
+      "sha256": "7292a088f2b1dd396a52ac8ecd9c507b975b517fe054b030ecdb144e94e7732b"
+    },
+    {
+      "printed_page": 28,
+      "pdf_reader_page": 26,
+      "path": "assets/p28.png",
+      "sha256": "ac18ca8e8ed4d1c9f7cce54a61f331a88ba4e7c351eb35bbd5f048cf132f1084"
+    },
+    {
+      "printed_page": 29,
+      "pdf_reader_page": 27,
+      "path": "assets/p29.png",
+      "sha256": "6546a5f8a13e052494c9f382c12c2e6430bae42d82aec6e14c4942ec37f2e541"
+    },
+    {
+      "printed_page": 30,
+      "pdf_reader_page": 28,
+      "path": "assets/p30.png",
+      "sha256": "d77f55d421b29aaec7da89601f0da635b9dd7487ef7d2906fad87716601f912d"
+    }
+  ],
+  "baseline_sources": [
+    {
+      "path": "D:\\mycodelife\\workshop\\composition-studies\\sources\\harmony-counterpoint\\hc-lesson-index.md",
+      "sha256": "8548bad3493fb5fd12daa4d2bf95c9c63278e819e55431b38e04cb21a9aebe03"
+    },
+    {
+      "path": "D:\\mycodelife\\workshop\\composition-studies\\sources\\harmony-counterpoint\\original-notes.md",
+      "sha256": "6ca23278c9b6f32cf61b4ae0168e54498eca2e964acdb7fb65ec7fd4ee830b8a"
+    },
+    {
+      "path": "D:\\mycodelife\\workshop\\composition-studies\\sources\\harmony-counterpoint\\notes-errata.md",
+      "sha256": "94a8a071dbae27bedc916a5bedc07e7a5bb958ead6bf638e4a784e3d2442ab47"
+    },
+    {
+      "path": "D:\\mycodelife\\workshop\\AI\\zhihu\\zhihu-articles\\2026-04-14 - Lecture Note_ Basics of Classical Harmony & Counterpoint - 2027521695221577722.md",
+      "sha256": "db87fc7af03d0565c95c13292f41931d409d7650c0f7936c755d2f71b3f1c03f"
+    }
+  ],
+  "coverage_note": "H&C reference index covers through L26; current-project note also includes L27. Labels concern documented coverage, not mastery or the complete video course.",
+  "rendering": "Full pages, Poppler pdftoppm, 160 dpi. Boundary pages repeated in adjacent sections; source is image-only, no OCR transcript substituted.",
+  "commentary_parts": [
+    "00-hc-bridge.md",
+    "01-construction.md",
+    "02-inversion-spacing.md",
+    "03-intervals-in-chords.md",
+    "04-overtones.md",
+    "05-medium.md",
+    "06-source-material.md",
+    "07-applications.md"
+  ],
+  "source_material_groups": 6,
+  "applications": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "example_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+  ]
+}

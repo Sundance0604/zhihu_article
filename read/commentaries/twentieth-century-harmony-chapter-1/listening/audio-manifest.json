@@ -1,0 +1,60 @@
+{
+  "sample_rate": 22050,
+  "synthesis": "Six ideal harmonic components per tone, amplitudes 1/n^1.65, short envelope; original examples, not sampled instruments or book-example transcriptions.",
+  "clips": [
+    {
+      "file": "01-interval-palette.wav",
+      "seconds": 17.52,
+      "description": "固定C4，上音依次从Db4升至C5，共十二组。",
+      "peak": 0.334796
+    },
+    {
+      "file": "02-fourth-context.wav",
+      "seconds": 9.46,
+      "description": "两种自拟上下文中的同一个C4–F4。",
+      "peak": 0.334769
+    },
+    {
+      "file": "03-inversion-and-extension.wav",
+      "seconds": 6.48,
+      "description": "小二度、大七度、小九度。",
+      "peak": 0.334791
+    },
+    {
+      "file": "04-register.wav",
+      "seconds": 6.78,
+      "description": "同一大三和弦配置整体移动音区。",
+      "peak": 0.407854
+    },
+    {
+      "file": "05-spacing.wav",
+      "seconds": 5.32,
+      "description": "相同四种音级的低处密集与拉开配置。",
+      "peak": 0.462505
+    },
+    {
+      "file": "06-tension-and-dynamics.wav",
+      "seconds": 15.8,
+      "description": "自拟张力增而渐弱、张力减而渐强；次序是创作示意，不是绝对排序。",
+      "peak": 0.456533
+    },
+    {
+      "file": "07-temperament.wav",
+      "seconds": 11.84,
+      "description": "平均律大三度、5∶4大三度交替两遍。",
+      "peak": 0.334769
+    },
+    {
+      "file": "08-grouping.wav",
+      "seconds": 7.3,
+      "description": "同一音级材料先齐奏，再拆成两个三度对；后段已改变同时发声关系。",
+      "peak": 0.463931
+    },
+    {
+      "file": "09-sustain-and-decay.wav",
+      "seconds": 5.32,
+      "description": "同一小二度先近似持续，再较快衰减；抽象包络比较，不模拟具体乐器。",
+      "peak": 0.33478
+    }
+  ]
+}

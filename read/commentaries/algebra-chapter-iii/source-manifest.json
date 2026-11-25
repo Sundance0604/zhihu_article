@@ -1,0 +1,624 @@
+{
+  "source": "Algebra Chapter 0 (Paolo Aluffi) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "source_sha256": "b512f3a7f735b9c1d1e60e82dc7df3268abbf45d599234ed1084daf0735cc011",
+  "pdf_page_offset": 23,
+  "scope": "Chapter III sections 4 through 7, main text only; all exercise sections excluded",
+  "original_notes_sha256": "5959bb91dd0dbe581bc891742c10e461852f8981136b624fb1e722033a3d92d3",
+  "sections": [
+    {
+      "id": 1,
+      "section": "III 4.1",
+      "title": "Basic operations",
+      "zh": "理想的生成与运算",
+      "file": "01-III-4.1.md",
+      "start": {
+        "page": 144,
+        "y": 507.3442
+      },
+      "end": {
+        "page": 146,
+        "y": 567.6553825000002
+      },
+      "blocks": [
+        {
+          "page": 144,
+          "asset": "01-p144.png",
+          "y0": 1574,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "eaa38c0dbca67b23d368a66955910cee79a26a7dc9edc554cba08d7fd29b8141"
+        },
+        {
+          "page": 145,
+          "asset": "01-p145.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "8de38453c17ce8c831676fd03913473221d60bcdf16d747a063105878be51b3f"
+        },
+        {
+          "page": 146,
+          "asset": "01-p146.png",
+          "y0": 0,
+          "y1": 1761,
+          "height": 2200,
+          "sha256": "d31593016c232ccfd3cf3e6c94d3d0354100c2405fb9274dae8f26957562091d"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "III 4.2",
+      "title": "Quotients of polynomial rings",
+      "zh": "把多项式关系变成可计算的商环",
+      "file": "02-III-4.2.md",
+      "start": {
+        "page": 146,
+        "y": 567.6553825000002
+      },
+      "end": {
+        "page": 150,
+        "y": 295.4009655000001
+      },
+      "blocks": [
+        {
+          "page": 146,
+          "asset": "02-p146.png",
+          "y0": 1761,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "e5dbf4e1505ffcb463ea71f8551d1cb11cfecae15d6c734810e12943eac9ec5f"
+        },
+        {
+          "page": 147,
+          "asset": "02-p147.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "702bdc15d940ebc96a533f2bf31bf544a030649a2e7860ea13deff8ce0369c2d"
+        },
+        {
+          "page": 148,
+          "asset": "02-p148.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "171b6e3510da5ac907806e5085d06b8c71591baea9338e4b2440362e8e1ba9db"
+        },
+        {
+          "page": 149,
+          "asset": "02-p149.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "a18f05ad13a3d6ce4f5da95ab5e77d420355fa15d82645b44a378f4511962018"
+        },
+        {
+          "page": 150,
+          "asset": "02-p150.png",
+          "y0": 0,
+          "y1": 917,
+          "height": 2200,
+          "sha256": "5f156b0cab399c0c79badbeb4b53b071939fdd06eaaecaee9234ec6c279b2431"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "III 4.3",
+      "title": "Prime and maximal ideals",
+      "zh": "用商理解素理想、极大理想与几何前景",
+      "file": "03-III-4.3.md",
+      "start": {
+        "page": 150,
+        "y": 295.4009655000001
+      },
+      "end": {
+        "page": 153,
+        "y": 398.6667725
+      },
+      "blocks": [
+        {
+          "page": 150,
+          "asset": "03-p150.png",
+          "y0": 917,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "0b3b9ff691043b3b8ec00695b75e51f59ccee3ff69014475732bd6cdf5f00f98"
+        },
+        {
+          "page": 151,
+          "asset": "03-p151.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "55484b443f4b24e46bcdf29239bf6a1c72d434cd877c7570712472b351af55ff"
+        },
+        {
+          "page": 152,
+          "asset": "03-p152.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "0786ae52b108e78a2c46f71d89e1db56e1896d4d76a6f5e7555ad41431bc0245"
+        },
+        {
+          "page": 153,
+          "asset": "03-p153.png",
+          "y0": 0,
+          "y1": 1237,
+          "height": 2200,
+          "sha256": "720bf02b2bfa37ed24acc30dc5fcf71ac6eb194de8dbf739c390b013aa6600fc"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "III 5.1",
+      "title": "Definition of (left-) R-module",
+      "zh": "从环作用出发定义模",
+      "file": "04-III-5.1.md",
+      "start": {
+        "page": 156,
+        "y": 162.0612000000001
+      },
+      "end": {
+        "page": 158,
+        "y": 0
+      },
+      "blocks": [
+        {
+          "page": 156,
+          "asset": "04-p156.png",
+          "y0": 503,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "9b3ae09baf3d74004bc3590378d544fed6347459cab7869df426011804cd64ad"
+        },
+        {
+          "page": 157,
+          "asset": "04-p157.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "96935ced1397031ce9d5cbe0313e0b84b90c560fa689dbafeab3709a617a526f"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "section": "III 5.2",
+      "title": "The category R-Mod",
+      "zh": "模范畴、线性映射与代数",
+      "file": "05-III-5.2.md",
+      "start": {
+        "page": 158,
+        "y": 0
+      },
+      "end": {
+        "page": 160,
+        "y": 350.76273249999986
+      },
+      "blocks": [
+        {
+          "page": 158,
+          "asset": "05-p158.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "8e3f6f5064d9d2f1e5ff0352be01a59d798340bd9322ddf4cbee017325b70a0a"
+        },
+        {
+          "page": 159,
+          "asset": "05-p159.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "c670abc445734d38cb97fd620fdfafc17cd073101f8140067f8e886d9003a068"
+        },
+        {
+          "page": 160,
+          "asset": "05-p160.png",
+          "y0": 0,
+          "y1": 1088,
+          "height": 2200,
+          "sha256": "507573cb4afa2ae17b94c13dee453b026e47b63b105755a7bcbd5c92f8746d28"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "section": "III 5.3",
+      "title": "Submodules and quotients",
+      "zh": "子模、商模与商的泛性质",
+      "file": "06-III-5.3.md",
+      "start": {
+        "page": 160,
+        "y": 350.76273249999986
+      },
+      "end": {
+        "page": 162,
+        "y": 0
+      },
+      "blocks": [
+        {
+          "page": 160,
+          "asset": "06-p160.png",
+          "y0": 1088,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "357ff88b69bdaee1dc54b1355c3806f1b416184bfdb49d0fce1f6a224ad8fe32"
+        },
+        {
+          "page": 161,
+          "asset": "06-p161.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "d81ed0f93dcfff533927e52a8e2a82f23a434877072ece0c50a19fb58bf83856"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "section": "III 5.4",
+      "title": "Canonical decomposition and isomorphism theorems",
+      "zh": "模同态分解与同构定理",
+      "file": "07-III-5.4.md",
+      "start": {
+        "page": 162,
+        "y": 0
+      },
+      "end": {
+        "page": 163,
+        "y": 0
+      },
+      "blocks": [
+        {
+          "page": 162,
+          "asset": "07-p162.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "34fd05cfa194e14dea3dc7cb72434b2c3c0206fd5516ade44ef2c0b0ec763340"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "section": "III 6.1",
+      "title": "Products and coproducts",
+      "zh": "积与余积为什么由同一个直和实现",
+      "file": "08-III-6.1.md",
+      "start": {
+        "page": 164,
+        "y": 368.6752
+      },
+      "end": {
+        "page": 166,
+        "y": 230.82379250000014
+      },
+      "blocks": [
+        {
+          "page": 164,
+          "asset": "08-p164.png",
+          "y0": 1144,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "1586e35354581e900c7b594df1dedb4fddbf34e8f7eef72df9ca48c6038a6e23"
+        },
+        {
+          "page": 165,
+          "asset": "08-p165.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "29348d2ca2b8fd4508406ede941afbf07ea88991699736eedfecc93753b0b00f"
+        },
+        {
+          "page": 166,
+          "asset": "08-p166.png",
+          "y0": 0,
+          "y1": 716,
+          "height": 2200,
+          "sha256": "de1f8d94280d58a3a6fb8faf781bdb26b0c2bc7eddb547230b2eecc0e83cbafd"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "section": "III 6.2",
+      "title": "Kernels and cokernels",
+      "zh": "核、余核及单满性的范畴解释",
+      "file": "09-III-6.2.md",
+      "start": {
+        "page": 166,
+        "y": 230.82379250000014
+      },
+      "end": {
+        "page": 167,
+        "y": 536.3447524999999
+      },
+      "blocks": [
+        {
+          "page": 166,
+          "asset": "09-p166.png",
+          "y0": 716,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "3d017e3302f2163653702bc5117e3866d333523005e80f767d462972f256bcea"
+        },
+        {
+          "page": 167,
+          "asset": "09-p167.png",
+          "y0": 0,
+          "y1": 1664,
+          "height": 2200,
+          "sha256": "87c94058e165cd7fe8a667fed01e422ba86db68012be2cada1f028ea896be6b3"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "section": "III 6.3",
+      "title": "Free modules and free algebras",
+      "zh": "自由对象怎样由允许的运算决定",
+      "file": "10-III-6.3.md",
+      "start": {
+        "page": 167,
+        "y": 536.3447524999999
+      },
+      "end": {
+        "page": 169,
+        "y": 423.25835249999983
+      },
+      "blocks": [
+        {
+          "page": 167,
+          "asset": "10-p167.png",
+          "y0": 1664,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "12b49d94f5e3b0eb9933f33416837e118c233a365c801ab0a41c3db27738612f"
+        },
+        {
+          "page": 168,
+          "asset": "10-p168.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "afd5a6939d6a4566572ac6e0ac1cbc9543862069a49827b627ca6fb3c6e5ef03"
+        },
+        {
+          "page": 169,
+          "asset": "10-p169.png",
+          "y0": 0,
+          "y1": 1313,
+          "height": 2200,
+          "sha256": "e0cd466e6fecb2ed9dafb82e4009b3070e1f5ae76e6dd9acf72ab0573bdb6479"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "section": "III 6.4",
+      "title": "Submodule generated by a subset; Noetherian modules",
+      "zh": "生成元与 Noetherian 性质",
+      "file": "11-III-6.4.md",
+      "start": {
+        "page": 169,
+        "y": 423.25835249999983
+      },
+      "end": {
+        "page": 171,
+        "y": 119.33359250000001
+      },
+      "blocks": [
+        {
+          "page": 169,
+          "asset": "11-p169.png",
+          "y0": 1313,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "76e946da93770b9a12aa8842beafc3790f8d9c734f9610ac0c7cbef91eac43df"
+        },
+        {
+          "page": 170,
+          "asset": "11-p170.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "cb5c58f103322cef1d8bc8d0ac7422bf858d682ce5ad3703cff9dfb11ad66556"
+        },
+        {
+          "page": 171,
+          "asset": "11-p171.png",
+          "y0": 0,
+          "y1": 370,
+          "height": 2200,
+          "sha256": "351779b166939f7ca7f696f1aeec3859ed54c5e4b8b63ceeaed449972c47f49b"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "section": "III 6.5",
+      "title": "Finitely generated vs. finite type",
+      "zh": "模的有限生成与代数的有限型",
+      "file": "12-III-6.5.md",
+      "start": {
+        "page": 171,
+        "y": 119.33359250000001
+      },
+      "end": {
+        "page": 172,
+        "y": 166.76377249999996
+      },
+      "blocks": [
+        {
+          "page": 171,
+          "asset": "12-p171.png",
+          "y0": 370,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "f6bc79f6cd668ba51ed0d902acf8df832ec18940c1a9f8baa37e25c567f5111d"
+        },
+        {
+          "page": 172,
+          "asset": "12-p172.png",
+          "y0": 0,
+          "y1": 517,
+          "height": 2200,
+          "sha256": "76b86a1768369c97d6f8baa05fe54f0e41b84691762fcd11b895b3fc89cfa34a"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "section": "III 7.1",
+      "title": "Complexes and exact sequences",
+      "zh": "从复合为零走到正合列",
+      "file": "13-III-7.1.md",
+      "start": {
+        "page": 174,
+        "y": 281.8232
+      },
+      "end": {
+        "page": 177,
+        "y": 110.70709249999993
+      },
+      "blocks": [
+        {
+          "page": 174,
+          "asset": "13-p174.png",
+          "y0": 874,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "000d1ca826ada6a7b7b847585a2f46ef5f33c5eab01b8bb40727eb48529941b4"
+        },
+        {
+          "page": 175,
+          "asset": "13-p175.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "d901b34a39d162cc4ccec5599972e90280eed576837fabe5e934e1a28f1d617f"
+        },
+        {
+          "page": 176,
+          "asset": "13-p176.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "c09f493321484dbbfedf7dbda7abc8f7b12fd4e76126c944ad0cf9841b5f7464"
+        },
+        {
+          "page": 177,
+          "asset": "13-p177.png",
+          "y0": 0,
+          "y1": 344,
+          "height": 2200,
+          "sha256": "9f0bd31e808f6ad6254a03a1b9e003a415e353a67d6bed1119f1db26c3c23285"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "section": "III 7.2",
+      "title": "Split exact sequences",
+      "zh": "分裂意味着能按同态规则拆回两部分",
+      "file": "14-III-7.2.md",
+      "start": {
+        "page": 177,
+        "y": 110.70709249999993
+      },
+      "end": {
+        "page": 178,
+        "y": 411.38339150000024
+      },
+      "blocks": [
+        {
+          "page": 177,
+          "asset": "14-p177.png",
+          "y0": 344,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "092d193ceda5c5b802a77907d5fc187834676a289362cfa0b802e4fa7f458385"
+        },
+        {
+          "page": 178,
+          "asset": "14-p178.png",
+          "y0": 0,
+          "y1": 1277,
+          "height": 2200,
+          "sha256": "2f0b2c161981f1e9a99cad40fa34b8e73fd674ec83e4cdc3f11d95b81adbf2b0"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "section": "III 7.3",
+      "title": "Homology and the snake lemma",
+      "zh": "同调怎样记录正合失败与连接障碍",
+      "file": "15-III-7.3.md",
+      "start": {
+        "page": 178,
+        "y": 411.38339150000024
+      },
+      "end": {
+        "page": 183,
+        "y": 161.9787725
+      },
+      "blocks": [
+        {
+          "page": 178,
+          "asset": "15-p178.png",
+          "y0": 1277,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "208b286f08f0e5c4e2c699e435164715c595dcca90707be7f47df91d3ab6509c"
+        },
+        {
+          "page": 179,
+          "asset": "15-p179.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "93b87376915e64c0000821c6798e45f0dfbc2a425979e528443cc12d990a1cc3"
+        },
+        {
+          "page": 180,
+          "asset": "15-p180.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "fcb16c4eec1512bb1cb55acb0293d37a228368f15cefc45ba3b39acbe7f54432"
+        },
+        {
+          "page": 181,
+          "asset": "15-p181.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "7d5ee1ca64e0e4294fe094d45f7566135f9dbbf119d3e3e4cceb034e1e597851"
+        },
+        {
+          "page": 182,
+          "asset": "15-p182.png",
+          "y0": 0,
+          "y1": 2200,
+          "height": 2200,
+          "sha256": "d9f8df23944584f34048902dd4cd044722f3f3cca062b1c5430a750628e5d9a0"
+        },
+        {
+          "page": 183,
+          "asset": "15-p183.png",
+          "y0": 0,
+          "y1": 503,
+          "height": 2200,
+          "sha256": "135b02e1e30a0b802b48d010651bdee0a53e79f9a9d5df03278cad253afef6a6"
+        }
+      ]
+    }
+  ]
+}
