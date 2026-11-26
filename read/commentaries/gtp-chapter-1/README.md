@@ -24,7 +24,7 @@
 
 ## 连续阅读
 
-[打开完整合订 Markdown](chapter-1-commentary.md) · [打开复习提纲与答案要点](review-guide.md)。
+[打开完整合订 Markdown](chapter-1-commentary.md) · [打开复习提纲与答案要点](review-guide.md) · [进入第二章：从 §2.2.5 张量开始](../gtp-chapter-2/README.md)。
 
 合订本与分小节版本内容相同，共用 assets 文件夹。移动、备份时需同时保留图片；只复制 Markdown 不会带走原文。下列分册适合按节阅读，避免一次加载全部原页。
 

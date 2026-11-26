@@ -1,0 +1,312 @@
+{
+  "source": "Geometry, Topology and Physics, Second Edition (Mikio Nakahara) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "source_sha256": "7a7e6143b31caad81077e6f53ade009656075eccf8d0df389d97fd8c5e624496",
+  "edition": "Second Edition (2003), Chapter 3",
+  "verified_date": "2026-11-26",
+  "source_pdf_page_count": 596,
+  "printed_pages": [
+    93,
+    120
+  ],
+  "pdf_pages": [
+    116,
+    143
+  ],
+  "render": {
+    "tool": "pdftoppm",
+    "format": "png",
+    "scale_to": 1800,
+    "crop": "none"
+  },
+  "pages": [
+    {
+      "printed_page": 93,
+      "pdf_page": 116,
+      "asset": "assets/p093.png",
+      "sha256": "f02c7073b1ca5fa18bce28d309f87e112b355adb2eebc370a2bd011bc451fb49"
+    },
+    {
+      "printed_page": 94,
+      "pdf_page": 117,
+      "asset": "assets/p094.png",
+      "sha256": "68e70a911200adbf39f699bddfa3c12087dfd443a54a6914b83bb1c0c13f745d"
+    },
+    {
+      "printed_page": 95,
+      "pdf_page": 118,
+      "asset": "assets/p095.png",
+      "sha256": "96bda0fed0cfe810c75bdc37be0f8e5880f1cf85a112d8aa569970a84397b2a0"
+    },
+    {
+      "printed_page": 96,
+      "pdf_page": 119,
+      "asset": "assets/p096.png",
+      "sha256": "a97412eedf96681e248aef98092e5c9d74ba56f82d31af310ab34ef6890680ac"
+    },
+    {
+      "printed_page": 97,
+      "pdf_page": 120,
+      "asset": "assets/p097.png",
+      "sha256": "5f93e4874fe1defe5c4481b38e32120a60cad6d54d14ba7fcba767d58496dfe1"
+    },
+    {
+      "printed_page": 98,
+      "pdf_page": 121,
+      "asset": "assets/p098.png",
+      "sha256": "d6569134df2d55d8348fc10c11d74fc10c9469d6274606aee9c7d6b03f8955ce"
+    },
+    {
+      "printed_page": 99,
+      "pdf_page": 122,
+      "asset": "assets/p099.png",
+      "sha256": "0212b7cae6035e2a74acb1b56decf5629f802ad1104e263ce09bebd54a8e6ea0"
+    },
+    {
+      "printed_page": 100,
+      "pdf_page": 123,
+      "asset": "assets/p100.png",
+      "sha256": "ce4ad678ec17c7a42eebd951be5353e6ff85620b545dea17a28f217d99f34ae1"
+    },
+    {
+      "printed_page": 101,
+      "pdf_page": 124,
+      "asset": "assets/p101.png",
+      "sha256": "5a2505df2fc6dae2eaa7b626b85066674684491570c2c1da354fabe8317798d7"
+    },
+    {
+      "printed_page": 102,
+      "pdf_page": 125,
+      "asset": "assets/p102.png",
+      "sha256": "62c00df881fb2f60e5ef2e9fae3d5377d0e74495d4b94a6f354940249d6ab6ea"
+    },
+    {
+      "printed_page": 103,
+      "pdf_page": 126,
+      "asset": "assets/p103.png",
+      "sha256": "ea547d41d7ed8ef497cb0f57b57c3f3a3858656ce72fd4cafcca64f72d5f2938"
+    },
+    {
+      "printed_page": 104,
+      "pdf_page": 127,
+      "asset": "assets/p104.png",
+      "sha256": "5a0327e305352eae7da672593c05a05aa8052f09a661e6f2aee217c19bf1c9e1"
+    },
+    {
+      "printed_page": 105,
+      "pdf_page": 128,
+      "asset": "assets/p105.png",
+      "sha256": "32e693803906452e9cd8609115612f377501c785aa80291c66fdf5cc5925e3a5"
+    },
+    {
+      "printed_page": 106,
+      "pdf_page": 129,
+      "asset": "assets/p106.png",
+      "sha256": "a16529c1525e7665408fe2fc8e404423a825b527494db2ce3f99106971f1cfca"
+    },
+    {
+      "printed_page": 107,
+      "pdf_page": 130,
+      "asset": "assets/p107.png",
+      "sha256": "f64fe1e072645a5d3b4639b592d8324e900c3db786240724fd25be4dba7c124f"
+    },
+    {
+      "printed_page": 108,
+      "pdf_page": 131,
+      "asset": "assets/p108.png",
+      "sha256": "c9a6e0490d247245fbe90ae3c1f0602d13326347dd6cf3ffda5c660e5a725e91"
+    },
+    {
+      "printed_page": 109,
+      "pdf_page": 132,
+      "asset": "assets/p109.png",
+      "sha256": "3582af4f6255632349fdff1230e3aad3b3da42b40c6cb5cc4728ac82612b78ba"
+    },
+    {
+      "printed_page": 110,
+      "pdf_page": 133,
+      "asset": "assets/p110.png",
+      "sha256": "9475ba07bea7250bfce3d88ea8bbb2159b7ad74237701948f275f6ede137d5e5"
+    },
+    {
+      "printed_page": 111,
+      "pdf_page": 134,
+      "asset": "assets/p111.png",
+      "sha256": "d190dccbb7c401ee641164c4548aaf7a01a4fc79075a5308110a1aa1cb022960"
+    },
+    {
+      "printed_page": 112,
+      "pdf_page": 135,
+      "asset": "assets/p112.png",
+      "sha256": "beacac6b7d96d96e3cf3491fb8fc8bdedc10ff456026b02b036337b37d216db7"
+    },
+    {
+      "printed_page": 113,
+      "pdf_page": 136,
+      "asset": "assets/p113.png",
+      "sha256": "5a3766e3b7bf9ef1dfd96582048ffe7e7c3a953c8dd9e364af69ada36bca79fa"
+    },
+    {
+      "printed_page": 114,
+      "pdf_page": 137,
+      "asset": "assets/p114.png",
+      "sha256": "17904952c0206e8e7e1fafcdfc3111d060834a871d848051c8d9dadd8b43317d"
+    },
+    {
+      "printed_page": 115,
+      "pdf_page": 138,
+      "asset": "assets/p115.png",
+      "sha256": "23228ef7cbfd40366946be73339761eb080def3c2132c9fca8db8181bfa09fed"
+    },
+    {
+      "printed_page": 116,
+      "pdf_page": 139,
+      "asset": "assets/p116.png",
+      "sha256": "e08d235129f214fa2b519a4b37fa7be74586bace58dcee8a903031d287311cef"
+    },
+    {
+      "printed_page": 117,
+      "pdf_page": 140,
+      "asset": "assets/p117.png",
+      "sha256": "6eeae6260cfc8104ef8a3894f41f88c94c3a5c7878c29e6481ce241738d37fe6"
+    },
+    {
+      "printed_page": 118,
+      "pdf_page": 141,
+      "asset": "assets/p118.png",
+      "sha256": "1a93f519b7e962ce44b81dc8fb0321b5bef150ca3dac9a099ed70ce4e5341e78"
+    },
+    {
+      "printed_page": 119,
+      "pdf_page": 142,
+      "asset": "assets/p119.png",
+      "sha256": "c6555b7109aa02787209115fe86dd56d4ea7f486c78372c93c12aaf0b8e99ac8"
+    },
+    {
+      "printed_page": 120,
+      "pdf_page": 143,
+      "asset": "assets/p120.png",
+      "sha256": "60453a6358d0822aff859e0d169584b7b64b4e063481d2a58484176660d1f990"
+    }
+  ],
+  "sections": [
+    {
+      "file": "01-3.1.1.md",
+      "section": "3.1.1 Elementary group theory",
+      "printed_pages": [
+        93,
+        95
+      ]
+    },
+    {
+      "file": "02-3.1.2.md",
+      "section": "3.1.2 Finitely generated Abelian groups",
+      "printed_pages": [
+        96,
+        96
+      ]
+    },
+    {
+      "file": "03-3.1.3.md",
+      "section": "3.1.3 Cyclic groups",
+      "printed_pages": [
+        96,
+        97
+      ]
+    },
+    {
+      "file": "04-3.2.1.md",
+      "section": "3.2.1 Simplexes",
+      "printed_pages": [
+        98,
+        99
+      ]
+    },
+    {
+      "file": "05-3.2.2.md",
+      "section": "3.2.2 Simplicial complexes and polyhedra",
+      "printed_pages": [
+        99,
+        101
+      ]
+    },
+    {
+      "file": "06-3.3.1.md",
+      "section": "3.3.1 Oriented simplexes",
+      "printed_pages": [
+        100,
+        102
+      ]
+    },
+    {
+      "file": "07-3.3.2.md",
+      "section": "3.3.2 Chain, cycle and boundary groups",
+      "printed_pages": [
+        102,
+        106
+      ]
+    },
+    {
+      "file": "08-3.3.3.md",
+      "section": "3.3.3 Homology groups",
+      "printed_pages": [
+        106,
+        110
+      ]
+    },
+    {
+      "file": "09-3.3.4.md",
+      "section": "3.3.4 Computation of H0",
+      "printed_pages": [
+        110,
+        111
+      ]
+    },
+    {
+      "file": "10-3.3.5.md",
+      "section": "3.3.5 More homology computations",
+      "printed_pages": [
+        111,
+        116
+      ]
+    },
+    {
+      "file": "11-3.4.1.md",
+      "section": "3.4.1 Connectedness and homology groups",
+      "printed_pages": [
+        117,
+        117
+      ]
+    },
+    {
+      "file": "12-3.4.2.md",
+      "section": "3.4.2 Structure of homology groups",
+      "printed_pages": [
+        118,
+        118
+      ]
+    },
+    {
+      "file": "13-3.4.3.md",
+      "section": "3.4.3 Betti numbers and Euler–Poincaré",
+      "printed_pages": [
+        118,
+        119
+      ]
+    },
+    {
+      "file": "14-Problems.md",
+      "section": "Problems 3.1–3.2",
+      "printed_pages": [
+        119,
+        120
+      ]
+    }
+  ],
+  "supplementary_method": "Explicitly identified cellular homology theorem for reduced surface models; not claimed to be simplicial decompositions.",
+  "computational_verification": {
+    "script": "verify-homology.py",
+    "results": "verification-results.json",
+    "examples": 8,
+    "arithmetic": "Exact rational rank and integer minors"
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "source": "Geometry, Topology and Physics, Second Edition (Mikio Nakahara) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "source_sha256": "7a7e6143b31caad81077e6f53ade009656075eccf8d0df389d97fd8c5e624496",
+  "edition": "Second Edition (2003), verified Chapter 2",
+  "verified_date": "2026-11-26",
+  "source_pdf_page_count": 596,
+  "printed_pages": [
+    67,
+    92
+  ],
+  "pdf_pages": [
+    90,
+    115
+  ],
+  "main_commentary_start": "2.2.5 Tensors, p.80",
+  "earlier_material": "Selective physical and geometric explanations, not a full commentary on 2.1–2.2.4",
+  "render": {
+    "tool": "pdftoppm",
+    "format": "png",
+    "scale_to": 1555,
+    "crop": "none"
+  },
+  "pages": [
+    {
+      "printed_page": 67,
+      "pdf_page": 90,
+      "asset": "assets/p067.png",
+      "sha256": "54c12554247c727ae0676c327cfea20e4e5ea4e289b9210ce69c22d59004ced3"
+    },
+    {
+      "printed_page": 68,
+      "pdf_page": 91,
+      "asset": "assets/p068.png",
+      "sha256": "3d1da143d489315cb76e12b4078c6f2a81985842b65be44b5e2ebe88eefde782"
+    },
+    {
+      "printed_page": 69,
+      "pdf_page": 92,
+      "asset": "assets/p069.png",
+      "sha256": "5d0240e1ee3c2c990bc4e5240845dfde740cf417f881925d7aea7a83f5d7a465"
+    },
+    {
+      "printed_page": 70,
+      "pdf_page": 93,
+      "asset": "assets/p070.png",
+      "sha256": "6bd3e95b113b822750cce08ad90767099941a310255099aeceb5eb380450f3e8"
+    },
+    {
+      "printed_page": 71,
+      "pdf_page": 94,
+      "asset": "assets/p071.png",
+      "sha256": "523adbcaf56c981315e41056bf80e81f3fe16d8b4a3d197fe74a013499a1846d"
+    },
+    {
+      "printed_page": 72,
+      "pdf_page": 95,
+      "asset": "assets/p072.png",
+      "sha256": "fe20c72b764ce12d010af9599af777041af418258ead70bdf7913a1abf12616a"
+    },
+    {
+      "printed_page": 73,
+      "pdf_page": 96,
+      "asset": "assets/p073.png",
+      "sha256": "b511d0bce9e21ad2f7a65714ca9bd79aef24f142c778db1780f1e7fe464f6f89"
+    },
+    {
+      "printed_page": 74,
+      "pdf_page": 97,
+      "asset": "assets/p074.png",
+      "sha256": "a282286e1bc271a68e74e30fe5ab3da4fde7a02840dbd9acc096edad908ce116"
+    },
+    {
+      "printed_page": 75,
+      "pdf_page": 98,
+      "asset": "assets/p075.png",
+      "sha256": "d963b3fe35d7fc32e1323189d90f875c17ba4d2d18c5a06274b76574c5c995f5"
+    },
+    {
+      "printed_page": 76,
+      "pdf_page": 99,
+      "asset": "assets/p076.png",
+      "sha256": "6692032e5d78253c4b8b6a0b536b1ef53a9eacfd9c3650f809173d38038c10d5"
+    },
+    {
+      "printed_page": 77,
+      "pdf_page": 100,
+      "asset": "assets/p077.png",
+      "sha256": "fc45907c96f0af2d6016a1c8c8476b9012be9093bfaccc67de478c2df2038aa9"
+    },
+    {
+      "printed_page": 78,
+      "pdf_page": 101,
+      "asset": "assets/p078.png",
+      "sha256": "562ebaed3f309987505b6ac6eb8f979576d793b0b762a042d7f813c5025ea214"
+    },
+    {
+      "printed_page": 79,
+      "pdf_page": 102,
+      "asset": "assets/p079.png",
+      "sha256": "febc9244268bbd1fc3524f0c17871a1244156cbf93531a5adadbc8f74ff55af3"
+    },
+    {
+      "printed_page": 80,
+      "pdf_page": 103,
+      "asset": "assets/p080.png",
+      "sha256": "fe5ccc28819bb6ae8cfa234c66471518f2f6375c22e69af304a13628c5ae4b8d"
+    },
+    {
+      "printed_page": 81,
+      "pdf_page": 104,
+      "asset": "assets/p081.png",
+      "sha256": "c62ed65efd6cb0e051dca1d5c94f1e598a8cbfda2c4cdebef2512ebd95daf449"
+    },
+    {
+      "printed_page": 82,
+      "pdf_page": 105,
+      "asset": "assets/p082.png",
+      "sha256": "788fbdd174c4164da2b40f6424a74cf12be6012b36e3f13b16062010c53e8355"
+    },
+    {
+      "printed_page": 83,
+      "pdf_page": 106,
+      "asset": "assets/p083.png",
+      "sha256": "d15d462d74e3775f72f4b20ec8de515232edff2ab0bb362fba17534c331ba187"
+    },
+    {
+      "printed_page": 84,
+      "pdf_page": 107,
+      "asset": "assets/p084.png",
+      "sha256": "a9c67bd2bbd53e204978d2117abe98fde6dc7309d53884f0b8bbc7f7801cd71e"
+    },
+    {
+      "printed_page": 85,
+      "pdf_page": 108,
+      "asset": "assets/p085.png",
+      "sha256": "f83ad81c6ece3d28fdac1003baa26441f1a772e5fc5a5bdc5965514c3aeae8cb"
+    },
+    {
+      "printed_page": 86,
+      "pdf_page": 109,
+      "asset": "assets/p086.png",
+      "sha256": "52e09352b640bcb15694cd9c5c4a2f876d0a61bf1ff83b7cf4ed55b48911d035"
+    },
+    {
+      "printed_page": 87,
+      "pdf_page": 110,
+      "asset": "assets/p087.png",
+      "sha256": "54988961b28e201ccd65ed195ba9ce3b0ff8e038b47dde999601276446c1a83d"
+    },
+    {
+      "printed_page": 88,
+      "pdf_page": 111,
+      "asset": "assets/p088.png",
+      "sha256": "4ce98f30d644ddd4c9ad6301f8afb3c7ecce4e09bef7dc96e13f41231d3172d0"
+    },
+    {
+      "printed_page": 89,
+      "pdf_page": 112,
+      "asset": "assets/p089.png",
+      "sha256": "c0f77e41cabe390b6ac442efa6853297f01fa0782210c072490d7ba10f26b9cd"
+    },
+    {
+      "printed_page": 90,
+      "pdf_page": 113,
+      "asset": "assets/p090.png",
+      "sha256": "18fec5e280bccf7e15b39140799bc6f228f777b74e1998277b65544bfb431790"
+    },
+    {
+      "printed_page": 91,
+      "pdf_page": 114,
+      "asset": "assets/p091.png",
+      "sha256": "e678364a4da4f12b857596aa3f6239ad5a6ca9b200d8fe13f2461162c40d979f"
+    },
+    {
+      "printed_page": 92,
+      "pdf_page": 115,
+      "asset": "assets/p092.png",
+      "sha256": "afff12664ebf03d403a07d36792dc69f241e90df56e8e0dda0ac3031b5e83212"
+    }
+  ],
+  "sections": [
+    {
+      "file": "00-before-tensors.md",
+      "section": "§2.2.5 之前的直观补充",
+      "printed_pages": [
+        67,
+        80
+      ]
+    },
+    {
+      "file": "01-2.2.5.md",
+      "section": "2.2.5 Tensors",
+      "printed_pages": [
+        80,
+        80
+      ]
+    },
+    {
+      "file": "02-2.3.1.md",
+      "section": "2.3.1 Definitions",
+      "printed_pages": [
+        81,
+        82
+      ]
+    },
+    {
+      "file": "03-2.3.2.md",
+      "section": "2.3.2 Continuous maps",
+      "printed_pages": [
+        82,
+        82
+      ]
+    },
+    {
+      "file": "04-2.3.3.md",
+      "section": "2.3.3 Neighbourhoods and Hausdorff spaces",
+      "printed_pages": [
+        82,
+        83
+      ]
+    },
+    {
+      "file": "05-2.3.4.md",
+      "section": "2.3.4 Closed set",
+      "printed_pages": [
+        83,
+        83
+      ]
+    },
+    {
+      "file": "06-2.3.5.md",
+      "section": "2.3.5 Compactness",
+      "printed_pages": [
+        83,
+        84
+      ]
+    },
+    {
+      "file": "07-2.3.6.md",
+      "section": "2.3.6 Connectedness",
+      "printed_pages": [
+        85,
+        85
+      ]
+    },
+    {
+      "file": "08-2.4.1.md",
+      "section": "2.4.1 Homeomorphisms",
+      "printed_pages": [
+        85,
+        86
+      ]
+    },
+    {
+      "file": "09-2.4.2.md",
+      "section": "2.4.2 Topological invariants",
+      "printed_pages": [
+        86,
+        88
+      ]
+    },
+    {
+      "file": "10-2.4.3.md",
+      "section": "2.4.3 Homotopy type",
+      "printed_pages": [
+        88,
+        88
+      ]
+    },
+    {
+      "file": "11-2.4.4.md",
+      "section": "2.4.4 Euler characteristic",
+      "printed_pages": [
+        88,
+        91
+      ]
+    },
+    {
+      "file": "12-Problems.md",
+      "section": "Problems 2.1–2.4",
+      "printed_pages": [
+        91,
+        92
+      ]
+    }
+  ]
+}
